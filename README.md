@@ -22,7 +22,7 @@
 ### :man_technologist: About Me : <hr/>
 Introducing me, a skilled **FrontEnd Web Developer** with expertise in React, Express, Node.js, JavaScript, Firebase, MongoDB, and front-end frameworks like Bootstrap and Tailwind. With my expertise, I create interactive and dynamic web applications. With a passion for crafting immersive user experiences, I combines technical prowess and creative problem-solving to build modern and interactive web applications. 
 
-- 🔭 I am a FrontEnd Web Developer
+- 🔭 I am FrontEnd Web Developer
 - 🌱 I’m currently learning Next JS
 - 💬 Ask me about: tareque.web@gmail.com
 - 📫 How to reach me: https://tareque.netlify.app/
