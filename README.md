@@ -6,8 +6,11 @@ Introducing me, a skilled **FrontEnd Web Developer** with expertise in React, Ex
 
 ### Skills:
 **Expertise:** React | JavaScript | ES6 | Html | CSS | Bootstrap | Tailwind | MongoDB
+
 **Comfortable:** Node JS | Express JS | MongoDB | Next JS | JWT | 
+
 **Tools:** Recharts | Figma | VsCode | Git & GitHub | Chrome Dev Tools | Canva
+
 **Deployment Technology:** Vercel | Firebase | Netlify
 
 - 🔭 I am a FrontEnd Web Developer|
