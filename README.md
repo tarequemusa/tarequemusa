@@ -1,7 +1,7 @@
 ### Hi there,
 ## My name is Tareque Musa 👋
 
-
+### 👉 I am a FrontEnd Web Developer|
 **tarequemusa/tarequemusa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
