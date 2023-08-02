@@ -2,7 +2,7 @@
 ## My name is Tareque Musa 👋
 
 ### 👉 I am a FrontEnd Web Developer|
-**tarequemusa/tarequemusa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Introducing me, a skilled **FrontEnd Web Developer** with expertise in React, Express, Node.js, JavaScript, Firebase, MongoDB, and front-end frameworks like Bootstrap and Tailwind. With my expertise, I create interactive and dynamic web applications. With a passion for crafting immersive user experiences, I combines technical prowess and creative problem-solving to build modern and interactive web applications.
 
 Here are some ideas to get you started:
 
